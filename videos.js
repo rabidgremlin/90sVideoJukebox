@@ -170,7 +170,103 @@ var videos = [
     {
         id: 'i7mEB2wnDLQ',
         message: "Suede - Animal Nitrate - James & Carolynne"
+    },
+    {
+        id: 'xS3GiUAvjJ8',
+        message: "Bush - Comedown - Jonathan"
+    },
+    {
+        id: '6NXnxTNIWkc',
+        message: "4 Non Blondes - What's Up - Jonathan"
+    },
+    {
+        id: 'N8r_anyZERw',
+        message: "Pearl Jam - State of Love and Trust - Jonathan"
+    },
+    {
+        id: '7HIc2EYnY2I',
+        message: "Salmonella Dub - For The Love of it - Karen & Cristian"
+    },
+    {
+        id: '9gEy2FJ_AiA',
+        message: "Supergroove - Can't Get Enough - Karen & Cristian"
+    },
+    {
+        id: 'Eb9FmmlzWkg',
+        message: "Headless Chickens - Cruise Control - Karen & Cristian"
+    },
+    {
+        id: 'q9F8nh3MvTc',
+        message: "The Exponents - Why Does Love Do This To Me - Karen & Cristian"
+    },
+    {
+        id: 'Nf4uiRr78dU',
+        message: "Underworld - Born Slippy - Karen & Cristian"
+    },
+    {
+        id: 'Y3ixEzKA4k0',
+        message: "Primal Scream - Loaded - Karen & Cristian"
+    },
+    {
+        id: '5LBnMRWeV-E',
+        message: "Cornershop - Brimful Of Asha - Karen & Cristian"
+    },
+    {
+        id: 'iTxOKsyZ0Lw',
+        message: "The Chemical Brothers - Block Rockin' Beats - Karen & Cristian"
+    },
+    {
+        id: 'rmHDhAohJlQ',
+        message: "The Prodigy - 'Breathe' - Karen & Cristian"
+    },
+    {
+        id: '9wfpXI5PKlw',
+        message: "Spice Girls - Spice Up Your Life - Karen & Cristian"
+    },
+    {
+        id: 'fHiGbolFFGw',
+        message: "Radiohead - Paranoid Android - Karen & Cristian"
+    },
+    {
+        id: 'Vjw92oUduEM',
+        message: "Destiny's Child - Jumpin' Jumpin' - Karen & Cristian"
+    },
+    {
+        id: '3JcmQONgXJM',
+        message: "Will Smith - Gettin' Jiggy Wit It - Karen & Cristian"
+    },
+    {
+        id: '4JkIs37a2JE',
+        message: "Jamiroquai - Virtual Insanity - Karen & Cristian"
+    },
+    {
+        id: 'v2AC41dglnM',
+        message: "AC/DC - Thunderstruck - Karen & Cristian"
+    },
+    {
+        id: 'etviGf1uWlg',
+        message: "Deee-Lite - Groove Is In The Heart - Karen & Cristian"
+    },
+    {
+        id: 'oKOtzIo-uYw',
+        message: "Fugees - Killing Me Softly With His Song - Karen & Cristian"
+    },
+    {
+        id: 'eTeg1txDv8w',
+        message: "Crash Test Dummies - Mmm Mmm Mmm Mmm - Karen & Cristian"
+    },
+    {
+        id: 'Wc18xt5wQnk',
+        message: "Blur - Song 2 - Karen & Cristian"
+    },
+    {
+        id: 'ftjEcrrf7r0',
+        message: "U2 - One - Karen & Cristian"
     }
+
+
+
+
 
 
 
