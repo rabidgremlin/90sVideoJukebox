@@ -40,7 +40,7 @@ var videos = [
         message: "Nirvana - Lithium"
     },
     {
-        id: 'YcBgKEEHv_4',
+        id: 'MCX_lUdt_Cs',
         message: "Better Man - Pearl Jam"
     },
     {
@@ -93,7 +93,7 @@ var videos = [
         message: "Alanis Morissette - Ironic - Sarah and Andrew"
     },
     {
-        id: 'T8Xb_7YDroQ',
+        id: 'ZyhrYis509A',
         message: "Aqua - Barbie Girl - Sarah and Andrew"
     },
     {
